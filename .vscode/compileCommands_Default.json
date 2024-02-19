@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\Source\\ChallengeAccepted\\ChallengeAccepted.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\.vscode\\compileCommands_Default\\ChallengeAccepted.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\Source\\ChallengeAccepted\\ChallengeAccepted.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\.vscode\\compileCommands_Default\\ChallengeAccepted.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\Source\\ChallengeAccepted\\ChallengeAccepted.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\.vscode\\compileCommands_Default\\ChallengeAccepted.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\Source\\ChallengeAccepted\\PlatformMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\.vscode\\compileCommands_Default\\ChallengeAccepted.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\Source\\ChallengeAccepted\\PlatformMovement.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\UE5\\Work Files\\ChallengeAccepted\\.vscode\\compileCommands_Default\\ChallengeAccepted.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
